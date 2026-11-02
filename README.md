@@ -240,7 +240,7 @@ This individual project helped me improve my understanding of MySQL, relational 
 
 ---
 
-**Project:** Retail Supply Chain & Warehousing Analytics  
+**Project:** Retail Supply Chain Analytics  
 **Technology:** MySQL and SQL  
 **Project Type:** Individual Project  
 **Author:** C. Divya Sri  
