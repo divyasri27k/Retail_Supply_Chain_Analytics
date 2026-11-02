@@ -1,4 +1,4 @@
-# Retail Supply Chain & Warehousing Analytics
+# Retail Supply Chain Analytics
 
 A MySQL-based business analytics project that analyzes purchase-order demand, warehouse ordering behavior, shipment performance, staff and vehicle performance, and shipment-related problems. The project uses operational data from six related datasets to understand business patterns, identify areas that may require improvement, and support better supply chain decisions.
 
