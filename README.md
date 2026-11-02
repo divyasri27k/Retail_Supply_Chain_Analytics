@@ -219,7 +219,7 @@ Retail-Supply-Chain-Analytics/
 └── README.md
 ```
 
-*The filenames above are a suggested repository organization. Update them to match the actual files you upload to GitHub.*
+
 
 ## How to Run
 
